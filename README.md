@@ -1,4 +1,4 @@
-![Cover](./.github/cover.png)
+![Cover](./.github/Cover.png)
 
 # NLW-Expert-Node.js
 
