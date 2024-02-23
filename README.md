@@ -21,7 +21,6 @@ Projeto para criação e votação em enquetes com ranking e atualização de vo
 
 ### API Test
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/website?url=https%3A%2F%2Fhoppscotch.io&logo=hoppscotch)
 
 ### Container
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
